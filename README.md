@@ -9,6 +9,10 @@ Tool to scrape LinkedIn post and get the user profiles of all the users who have
  Selenium
  
  MongoDb
+
+#Use-case
+
+A recruiter can post on LinkedIn and query the db for Universities/ other requisites rather than visiting individual profiles
  
  
  Install the pre-reqs by alternatively running the following command from terminal
