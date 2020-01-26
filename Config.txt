@@ -1,4 +1,4 @@
-email: prvi9376@colorado.edu
-password: Priyanka#9
-chrome_driver: /Users/preethi/Downloads/chromedriver
-link: https://www.linkedin.com/posts/nishantjain131_startupjobs-jobs-hiring-activity-6623233610138951680-Yt1k
+email: 
+password:
+chrome_driver: 
+link: 
